@@ -1,0 +1,12 @@
+doubts
+
+Hi, I was going through the payer platforms section in the cheatsheet and noticed it lists multiple systems like Facets, QNXT, HealthEdge, AMISYS, and Diamond. Could you clarify which platform our current project is using so I can focus my learning on that one?
+
+
+Which modules or areas of the payer system does our team mainly work on? For example claims processing, member enrollment, provider management, or integrations.
+
+
+In our project which integration technologies are primarily used? For example HL7, FHIR, Mirth, MuleSoft, Kafka, etc.
+
+Could you briefly explain the typical data flow in our system? For example how a claim or message moves from the provider system through integration to the payer platform.
+
